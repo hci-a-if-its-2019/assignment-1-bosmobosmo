@@ -1,5 +1,8 @@
 # Contextual Inquiry and Analysis
 ## Internet Archive Description
+
+![Internet Archive Homepage](res/archive.png)
+
 [Internet Archive](https://archive.org) is a digital library of Internet sites and other cultural artifacts in digital form. They began by archiving the Internet back in 1996, and then started providing digital versions of books and in late 2000, start archiving TV shows. Anyone with a free account can upload files to the site. 
 ## Instruction Script
     - Make a free account
@@ -7,9 +10,58 @@
     - Try browsing for a book
     - Try accessing a site from specific year with the wayback machine
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+User is a 1st year student from English Literature department in Universitas Sunan Ampel. Never used the site before. Mostly uses internet for social media and playing games.
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```
+Me: Coba bikin akun gratis
+User: *isi form*
+Situs: *gagal buat akun*
+User: Usernamenya sudah dipake ternyata
+User: Kok nggak ngasih tau dari awal kalo udah dipake
+Me: Ya jeleknya berarti, nggak kayak situs sosmed kayak facebook twitter dkk.
+*Sukses buat akun*
+User: Sekarang ngapain?
+Me: Coba cari buku "Il Principe" terus download, boleh pake search box
+Situs: *keluar hasil*
+User: Ini yang mana?
+User: *klik satu entry*
+Me: Bukan itu, kalo itu audiobook
+User: Oh iya sih, filenya mp3
+User: *kembali ke halaman hasil*
+User: Yang ini ta? *klik satu entry*
+User: Ini yang mana yang didownload? Ada banyak
+Me: Yang pdf ae
+User: *download pdf*
+Me: Sekarang coba cari buku "Divine Comedy" nggak pake search box
+User: Berarti harus buka satu-satu ini
+User: Ada banyak ini, gimana nyarinya. American library aja ada banyak banget
+Me: Yawes coba di California Digital Library
+User: Banyak ini bim, masak cari satu-satu
+Me: Ya carien
+User: Susah ini, ada seratus ribu lebih lho
+Me: Ya udah itu deh Tom Sawyer
+User: *nemu Tom Sawyer*
+Me: Sekarang coba buka YouTube dari tahun 2005
+User: *ketik youtube.com ke search box*
+Situs: *tampilkan halaman hasil*
+User: *klik tahun 2005*
+User: Kok isinya malah kalender
+User: *ketik https://youtube.com ke search box*
+Situs: *tampilkan halaman hasil*
+User: *klik tombol summary of site*
+User: Ini tulisannya web tapi malah keluar statistik
+User: *kembali ke homepage*
+User: Coba web random deh
+User: *klik web random*
+Situs: *nampilkan website*
+User: *masukin youtube.com ke address bar*
+User: Nah akhirnya muncul
+User: Sekarang mana yang 2005
+User: Nah ketemu
+User: Begini ya youtube dulu wkwk
+User: Udah gini aja?
+Me: Ya udah, tks
+```
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
