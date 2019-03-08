@@ -65,10 +65,10 @@ Me: Ya udah, tks
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation]
-(res/artifact-1.jpg)
-(res/artifact-2.jpg)
-(res/artifact-3.jpg)
-(res/artifact-4.jpg)
+![Artifact1](res/artifact-1.jpg)
+![Artifact2](res/artifact-2.jpg)
+![Artifact3](res/artifact-3.jpg)
+![Artifact4](res/artifact-4.jpg)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
