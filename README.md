@@ -79,7 +79,7 @@ Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenat
 # Remarks
 > * This case was a good one. I saw you're able to expose the problem pretty well.
 > * However, it's unfortunate that you could not complement the artificat model with the flow and cultural model as well.
-> * The transcript is great. Its flow is quite natural, although in some parts you had to give explicit clues to the user.
+> * The transcript is great. Its flow is quite natural, although in some parts you had to give explicit clues to the user. Nevertheless, the transcript lacks of line numbering or time-code.
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
