@@ -83,4 +83,4 @@ Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenat
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
-| 1            | 1                | 3               | 55                 | 60         | 56    |
+| 2            | 1                | 3               | 55                 | 60         | 56    |
